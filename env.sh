@@ -1,0 +1,6 @@
+export STDCELLLIB="../"
+export OPENLANE_ROOT="/home/philipp/libresilicon/StdCellLib/Catalog/gf180_stdcelllib_2/dependencies/openlane_src"
+export CARAVEL="/home/philipp/libresilicon/StdCellLib/Catalog/gf180_stdcelllib_2"
+export CARAVEL_ROOT="/home/philipp/libresilicon/StdCellLib/Catalog/gf180_stdcelllib_2/caravel"
+export PDK_ROOT="/home/philipp/libresilicon/StdCellLib/Catalog/gf180_stdcelllib_2/dependencies/pdks"
+export PDK="gf180mcuC"
